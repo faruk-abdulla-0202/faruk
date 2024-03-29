@@ -1,4 +1,4 @@
 # faruk
 This is my first Git Repository
 <br>
-Author - Faruk Abdulla.
+Author - Faruk abdulla .
